@@ -5,23 +5,25 @@ I am [Nadine Gutiérrez](https://github.com/Nadine044), student of the [Bachelor
 This project contains a research about how to generate isometric random maps in C++. There are two map types implemented in the code: dungeon and squared rooms.
 
 ## Map Types
+Depending on the map type that is played, the randomness algorithms will change. In this project is it focused a 2d isometric map algorithm.
+We can find maps and worlds just like those: 
 
-- 2d map: 
+### 2d map
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/super-mario-bros_2.jpg)
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/sonic-sega-900x600.jpg)
+[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/super-mario-bros_2.jpg)
+[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/sonic-sega-900x600.jpg)
 
-- 2d with perspective
+### 2d with perspective
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/megamanstarforce_12a.jpg)
+[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/megamanstarforce_12a.jpg)
 
-- 3d:
+### 3d map:
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Zelda-Breath-of-the-Wild.jpg)
+[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Zelda-Breath-of-the-Wild.jpg)
 
-- Virtual World:
+### Virtual World:
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Beat-Saber-BennyDaBeast.jpg)
+[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Beat-Saber-BennyDaBeast.jpg)
 
 ## Games with random maps
 
