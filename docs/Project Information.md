@@ -30,14 +30,24 @@ We can find maps and worlds just like those:
 ## Code Implementation
 In this project it is shown how to generate an algorithm to generate those two map types.
 ### Grid creation
-### Start de algorithm
-### Walls generation
+To generate the world space for the level we need to create a grid. In the code we have a struct for the map nodes (tiles) and we store every node into the nodes vector.
+We will use the Get(x,y) function.
 
-### Grid creation
-### Rooms generation
-### Rooms order
-### Connecting rooms
+### Start de algorithm
+In this point it starts de floor generation and stablish the grid limits by executing the algorithm.
+The user stablish an iteratons number to get a terrain size aproximation. In each cycle it checks the nodes neighbours, which they have a 25% chance to be the next current node on the next cycle move.
+When the algorithm finds a new node (which wasn't visited before), the iteration numer increases.
+
 ### Walls generation
+Now that we have a terrain to walk in, we need to put walls to represent de level limits.
+The algorithm will check the visited nodes boundaries, and if it is the case that a node have a different node neghbour, it will change it for a wall.
+
+### Rooms generation
+Depending on the user size preferences, the algorithm picks a random node on the grid and it checks if it has space enoguh to generate a room. It will generate as many rooms as you specified.
+When all the rooms are created they will be ordered by their X position (left to right).
+
+### Connecting rooms
+When all the rooms are stablished we will use A* (pathfinding algorithm) to generate an entrance/exit of the room, and then connect this one with the next ordered room.
 
 ## References
 https://es.gizmodo.com/asi-se-generan-las-mazmorras-aleatorias-en-un-videojueg-1729131335
