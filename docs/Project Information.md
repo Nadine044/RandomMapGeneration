@@ -10,20 +10,20 @@ We can find maps and worlds just like those:
 
 ### 2d map
 
-[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/super-mario-bros_2.jpg)
-[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/sonic-sega-900x600.jpg)
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/super-mario-bros_2.jpg)
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/sonic-sega-900x600.jpg)
 
 ### 2d with perspective
 
-[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/megamanstarforce_12a.jpg)
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/megamanstarforce_12a.jpg)
 
 ### 3d map:
 
-[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Zelda-Breath-of-the-Wild.jpg)
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Zelda-Breath-of-the-Wild.jpg)
 
 ### Virtual World:
 
-[](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Beat-Saber-BennyDaBeast.jpg)
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Beat-Saber-BennyDaBeast.jpg)
 
 ## Games with random maps
 
