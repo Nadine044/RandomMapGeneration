@@ -1,0 +1,24 @@
+<!-- mapsData -->
+
+<MapsData>
+  
+  <maps>
+    <IsometricMap>
+      <tileSetPath path="isometricMap.png"/>
+      <tileSize xsize="32" ysize="16"/>
+      <gridSize xSize="50" ySize="50"/>
+      <mapIterations iterations="600"/>
+    </IsometricMap>
+    
+    <RoomsMap>
+      <tileSetPath path="isometricMap.png"/>
+      <tileSize size="1"/>
+      <roomsOffset offset="7"/>
+      <gridSize xSize="100" ySize="100"/>
+      <rooms numRooms="9"/>
+      <roomsSize minX="10" maxX="14"  minY="10" maxY="14"/>
+      <pathoffset pathOffset="2"/>
+    </RoomsMap>
+  </maps>
+
+</MapsData>
