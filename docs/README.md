@@ -34,24 +34,21 @@ We can find maps and worlds just like those:
 ## First algorithms implementations
 Some games used pseudorandom number generators were often used with predefined seed values in order to generate very large game worlds that appeared to be premade. The Sentinel supposedly to had 10.000 different levels stored in only 48 and 64 kilobytes. An extreme case was Elite, which was originally planned to contain an approximately 282 trillion galaxies with 256 solar systems each. However, the publisher was afraid that such a gigantic universe would cause disbelief in players, and eight of these galaxies were chosen for the final version. Other notable early examples include the 1985 game Rescue on Fractalus that used fractals to procedurally create, in real time, the craggy mountains of an alien planet.
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/149850.gif)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/149850.gif?raw=true"/>
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/149981.gif)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/149981.gif?raw=true"/>
 
 Akalabeth: World of doom (1980)
 
-
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Thesentinelabsorb.GIF)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Thesentinelabsorb.GIF?raw=true"/>
 
 The Sentinel (1986)
 
-
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Elite_Animation.gif)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Elite_Animation.gif?raw=true"/>
 
 Elite (1984)
 
-
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Fractalus_anim_small.gif)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Fractalus_anim_small.gif?raw=true"/>
 
 Rescue on Fractalus (1985)
 
