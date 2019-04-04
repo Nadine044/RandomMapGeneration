@@ -83,13 +83,21 @@ When all the rooms are stablished we will use A* (pathfinding algorithm) to gene
 ## TODOs Solutions
 ### TODO 1: Load elements through xml
 
+We have to load all the elements that we stored in the mapData.xml. We will use the mapData variable that pertains to the struct RoomsMapInfo.
+
 ![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/1.PNG)
 
 ### TODO 2: Generate corridors between rooms using A* (pathfinding algorithm)
 
+To generate the corridors between all our stablished rooms we use A*. The code checks a random valid point from the room and creates a pathfinding to the next valid point of the next room. 
+
+The rooms are ordered by the X position component.
+
 ![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/2.PNG)
 
 ### TODO 3: Walls generation
+
+Finally we check the current node boundaries, and if there is a WATER node it has to be changed by a WALL node.
 
 ![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/3.PNG)
 
