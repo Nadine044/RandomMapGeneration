@@ -4,8 +4,14 @@ I am [Nadine Gutiérrez](https://github.com/Nadine044), student of the [Bachelor
 ## About the project
 This project contains a research about how to generate isometric random maps in C++. There are two map types implemented in the code: dungeon and squared rooms.
 
+The project goals are generate an algorithm similar than this one:
+
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Algoritm.gif)
+
+We will use a simple ordering rooms code depending on the X position of them. In the gif is it used a Physics engine to separate them.
+
 ## Map Types
-Depending on the map type that is played, the randomness algorithms will change. In this project is it focused a 2d isometric map algorithm.
+Depending on the map type that is played, the randomness algorithms will change. In this project it is focused a 2d isometric map algorithm.
 We can find maps and worlds just like those: 
 
 ### 2d map
