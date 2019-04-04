@@ -83,9 +83,15 @@ When all the rooms are stablished we will use A* (pathfinding algorithm) to gene
 ## TODOs Solutions
 ### TODO 1: Load elements through xml
 
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/1.PNG)
+
 ### TODO 2: Generate corridors between rooms using A* (pathfinding algorithm)
 
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/2.PNG)
+
 ### TODO 3: Walls generation
+
+![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/3.PNG)
 
 ## References
 https://es.gizmodo.com/asi-se-generan-las-mazmorras-aleatorias-en-un-videojueg-1729131335
