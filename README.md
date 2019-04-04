@@ -3,3 +3,11 @@ I am Nadine Gutiérrez Pociño, student of the Bachelor’s Degree in Video Game
 
 ## About the project
 This project contains a research about how to generate isometric random maps in C++. There are two map types implemented in the code: dungeon and squared rooms.
+
+## Inputs
+
+- Arrow keys: move the map
+
+- I: Generate random isometric map (Vlambeer style)
+
+- R: Generate random isometric rooms map
