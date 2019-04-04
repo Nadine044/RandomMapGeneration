@@ -6,7 +6,7 @@ This project contains a research about how to generate isometric random maps in 
 
 The project goals are generate an algorithm similar than this one:
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Algoritm.gif)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Algoritm.gif"/>
 
 We will use a simple ordering rooms code depending on the X position of them. In the gif is it used a Physics engine to separate them.
 
