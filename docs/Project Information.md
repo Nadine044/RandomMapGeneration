@@ -80,6 +80,13 @@ When all the rooms are created they will be ordered by their X position (left to
 ### Connecting rooms
 When all the rooms are stablished we will use A* (pathfinding algorithm) to generate an entrance/exit of the room, and then connect this one with the next ordered room.
 
+## TODOs Solutions
+### TODO 1: Load elements through xml
+
+### TODO 2: Generate corridors between rooms using A* (pathfinding algorithm)
+
+### TODO 3: Walls generation
+
 ## References
 https://es.gizmodo.com/asi-se-generan-las-mazmorras-aleatorias-en-un-videojueg-1729131335
 
