@@ -16,20 +16,20 @@ We can find maps and worlds just like those:
 
 ### 2d map
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/super-mario-bros_2.jpg)
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/sonic-sega-900x600.jpg)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/super-mario-bros_2.jpg?raw=true"/>
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/sonic-sega-900x600.jpg?raw=true" width="500"/>
 
 ### 2d with perspective
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/megamanstarforce_12a.jpg)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/megamanstarforce_12a.jpg?raw=true"/>
 
 ### 3d map:
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Zelda-Breath-of-the-Wild.jpg)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Zelda-Breath-of-the-Wild.jpg?raw=true" width="500"/>
 
 ### Virtual World:
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Beat-Saber-BennyDaBeast.jpg)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Beat-Saber-BennyDaBeast.jpg?raw=true" width="500"/>
 
 ## First algorithms implementations
 Some games used pseudorandom number generators were often used with predefined seed values in order to generate very large game worlds that appeared to be premade. The Sentinel supposedly to had 10.000 different levels stored in only 48 and 64 kilobytes. An extreme case was Elite, which was originally planned to contain an approximately 282 trillion galaxies with 256 solar systems each. However, the publisher was afraid that such a gigantic universe would cause disbelief in players, and eight of these galaxies were chosen for the final version. Other notable early examples include the 1985 game Rescue on Fractalus that used fractals to procedurally create, in real time, the craggy mountains of an alien planet.
@@ -38,7 +38,7 @@ Some games used pseudorandom number generators were often used with predefined s
 
 <img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/149981.gif?raw=true"/>
 
-Akalabeth: World of doom (1980)
+Akalabeth: World of doom (1979)
 
 <img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Thesentinelabsorb.GIF?raw=true"/>
 
@@ -50,7 +50,7 @@ Elite (1984)
 
 <img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/Fractalus_anim_small.gif?raw=true"/>
 
-Rescue on Fractalus (1985)
+Rescue on Fractalus (1984)
 
 
 ## Games with random maps
@@ -82,7 +82,7 @@ When all the rooms are stablished we will use A* (pathfinding algorithm) to gene
 
 We have to load all the elements that we stored in the mapData.xml. We will use the mapData variable that pertains to the struct RoomsMapInfo.
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/1.PNG)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/1.PNG?raw=true"/>
 
 ### TODO 2: Generate corridors between rooms using A* (pathfinding algorithm)
 
@@ -90,13 +90,13 @@ To generate the corridors between all our stablished rooms we use A*. The code c
 
 The rooms are ordered by the X position component.
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/2.PNG)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/2.PNG?raw=true"/>
 
 ### TODO 3: Walls generation
 
 Finally we check the current node boundaries, and if there is a WATER node it has to be changed by a WALL node.
 
-![](https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/3.PNG)
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/3.PNG?raw=true"/>
 
 ## References
 https://es.gizmodo.com/asi-se-generan-las-mazmorras-aleatorias-en-un-videojueg-1729131335
