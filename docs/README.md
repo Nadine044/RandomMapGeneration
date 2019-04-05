@@ -56,11 +56,11 @@ Rescue on Fractalus (1984)
 
 Nowadays we can find some video games like those ones, that still implement random algorithms to generate maps. This level design is still working.
 
-<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/3_pokemon_mystery_dungeon_red_rescue_team.jpg?raw=true"/>
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/3_pokemon_mystery_dungeon_red_rescue_team.jpg?raw=true" width="500"/>
 
 Pokémon: Mystery Dungeon
 
-<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/isaacrebirth.0.0.jpg?raw=true"/>
+<img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/isaacrebirth.0.0.jpg?raw=true" width="500"/>
 
 The binding of Isaac
 
