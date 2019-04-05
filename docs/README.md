@@ -52,8 +52,9 @@ Elite (1984)
 
 Rescue on Fractalus (1984)
 
-
 ## Games with random maps
+
+Nowadays we can find some video games like those ones, that still implement random algorithms to generate maps. This level design is still working.
 
 ## Code Implementation
 In this project it is shown how to generate an algorithm to generate those two map types.
@@ -97,6 +98,12 @@ The rooms are ordered by the X position component.
 Finally we check the current node boundaries, and if there is a WATER node it has to be changed by a WALL node.
 
 <img src="https://github.com/Nadine044/RandomMapGeneration/blob/master/docs/media/TODOs/3.PNG?raw=true"/>
+
+## Special thanks to:
+
+[Guillem Costa](https://github.com/DatBeQuiet)
+
+[Martí Torras](https://github.com/martitorras)
 
 ## References
 https://es.gizmodo.com/asi-se-generan-las-mazmorras-aleatorias-en-un-videojueg-1729131335
