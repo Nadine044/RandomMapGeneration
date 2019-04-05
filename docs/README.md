@@ -71,7 +71,7 @@ In this project it is shown how to generate an algorithm to generate those two m
 To generate the world space for the level we need to create a grid. In the code we have a struct for the map nodes (tiles) and we store every node into the nodes vector.
 We will use the Get(x,y) function.
 
-### Start de algorithm
+### Start the algorithm
 In this point it starts de floor generation and stablish the grid limits by executing the algorithm.
 The user stablish an iteratons number to get a terrain size aproximation. In each cycle it checks the nodes neighbours, which they have a 25% chance to be the next current node on the next cycle move.
 When the algorithm finds a new node (which wasn't visited before), the iteration numer increases.
