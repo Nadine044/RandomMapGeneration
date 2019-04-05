@@ -64,8 +64,9 @@ Pokémon: Mystery Dungeon
 
 The binding of Isaac
 
-## Code Implementation
+## CODE
 In this project it is shown how to generate an algorithm to generate those two map types.
+
 ### Grid creation
 To generate the world space for the level we need to create a grid. In the code we have a struct for the map nodes (tiles) and we store every node into the nodes vector.
 We will use the Get(x,y) function.
