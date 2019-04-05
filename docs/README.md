@@ -110,9 +110,9 @@ Finally we check the current node boundaries, and if there is a WATER node it ha
 
 ## Special thanks to:
 
-[Guillem Costa](https://github.com/DatBeQuiet)
+[Guillem Costa](https://github.com/DatBeQuiet) Who helped me with the generic code
 
-[Martí Torras](https://github.com/martitorras)
+[Martí Torras](https://github.com/martitorras) Who helped me with programming
 
 ## References
 https://es.gizmodo.com/asi-se-generan-las-mazmorras-aleatorias-en-un-videojueg-1729131335
